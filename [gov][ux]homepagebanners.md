@@ -1,0 +1,6 @@
+# When is a banner appropriate?
+Home page banners are produced on a case by case basis (about 6-7 a year). We've even done full page takeovers (for the giants) - It's more about the status of the event than anything else. We don't like to do them too often because it dilutes their effect (If people start to expect a banner there, then they become "banner blind" and just scroll past it) and inevitably everybody thinks their event is more important than everything else, when Liverpool.gov.uk's actual primary function is to provide simple, customer focused access to council services. It's not such an issue for desktop users, but a big banner completely takes over the screen on a mobile device (60% of users) making it difficult for the user to access what they actually came to the site for.
+
+However, when there's a citywide event like fireworks, LIMF, 3 queens, giants, poppies etc which has significant council involvement, a national profile and/or a large audience, we can realistically expect a lot of people to visit the council website to find out more, so a banner is appropriate… We like to think of it as the digital equivalent of "Is this event important enough to warrant putting a banner in the way of people trying to get into a one stop shop"
+
+testing slack
