@@ -3,4 +3,3 @@ Home page banners are produced on a case by case basis (about 6-7 a year). We've
 
 However, when there's a citywide event like fireworks, LIMF, 3 queens, giants, poppies etc which has significant council involvement, a national profile and/or a large audience, we can realistically expect a lot of people to visit the council website to find out more, so a banner is appropriate… We like to think of it as the digital equivalent of "Is this event important enough to warrant putting a banner in the way of people trying to get into a one stop shop"
 
-testing slack
